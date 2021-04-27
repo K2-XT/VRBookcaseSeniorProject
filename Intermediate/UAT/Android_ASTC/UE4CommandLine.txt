@@ -1,0 +1,1 @@
+../../../VRBookcase/VRBookcase.uproject  /Game/Maps/EditorMap -Messaging -SessionId=CB08AA1B4D23F8AB51C0DA8B7DA70329 -SessionOwner="payto" -SessionName="Launch On Device"    -filehostip=192.168.1.7+127.0.0.1
